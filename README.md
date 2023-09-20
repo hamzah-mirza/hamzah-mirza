@@ -8,8 +8,9 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Redux & React Native** - 📫 How to reach me
-**h.mirza17001@gmail.com** - ⚡ Fun fact **MMORPGs > RPGs**
+- 🌱 I’m currently learning **Redux & React Native**
+- 📫 How to reach me **h.mirza17001@gmail.com**
+- ⚡ Fun fact **MMORPGs are so much better than RPGs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
