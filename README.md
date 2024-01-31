@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Redux & React Native**
 - 📫 How to reach me **h.mirza17001@gmail.com**
-- ⚡ Fun fact **MMORPGs are so much better than RPGs**
+- ⚡ Fun fact ** I'm passionate about experimenting with cooking exotic dishes from around the world, finding parallels between crafting recipes and writing elegant code! &#x1F609; **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
