@@ -8,13 +8,6 @@
 <h1 align="center">Hi 👋, I'm Hamzah</h1>
 <h3 align="center">A novice & enthusiastic web developer from Montreal</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=hamzah-mirza&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hamzah-mirza"
-  />
-</p>
-
 - 🌱 I’m currently learning **Redux & React Native**
 - 📫 How to reach me **h.mirza17001@gmail.com**
 - ⚡ Fun fact **MMORPGs are so much better than RPGs**
