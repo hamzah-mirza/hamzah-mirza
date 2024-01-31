@@ -136,12 +136,12 @@
   </a>
 </p>
 
-
 <p>
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hamzah-mirza&"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzah-mirza&show_icons=true&locale=en&layout=compact"
     alt="hamzah-mirza"
   />
 </p>
+
 
